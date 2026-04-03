@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋, I'm Yukina
 
-<!--
-**yukinakami/yukinakami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**  
+- Bachelor's degree at Southwestern University of Finance and Economics (Sep 2021 – Sep 2025)  
+- Master's degree at Southwestern University of Finance and Economics (ongoing)  
 
-Here are some ideas to get you started:
+🔬 **Research Interests**  
+- Multimodal learning, time series analysis, and AI applications in finance 🤖📊  
+- Passionate about modeling complex, heterogeneous data for real-world decision-making 💡📈  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 **Competitions & Achievements**  
+- Market Research Competition, Sichuan Province 1st Prize (Top of University) – Apr 2024 🥇  
+- Computer Design Competition, Sichuan Province 2nd Prize – Apr 2024 🥈  
+- Challenge Cup Entrepreneurship Competition, Sichuan Province 2nd Prize – May 2024 🥈  
+- Other competitions: Mathematical Modeling, Citibank Blockchain Smart Contract Cup, Three-Creation Competition, Statistical Modeling Competition  
+
+🔬 **Undergraduate Research & Projects**  
+- National Undergraduate Innovation Plan, National-level Completion – Jun 2023 to Sep 2024  
+- Provincial-level Project, Completed – Jun 2023 to Jun 2024  
+- Two Key University-level Projects, Completed – Nov 2022 to Nov 2023; Nov 2023 to Nov 2025  
+- Presented one project at the 1st Chengdu-Chongqing Marketing Academic Forum – Dec 2023  
+
+🏃‍♂️ **Personal Interests**  
+- Long-distance running enthusiast  
+- 5K personal best: 19:40 ⏱️  
+- Half marathon personal best: 1:37:38 🏅 — still chasing faster times  
+
+🎯 **Future Plans**  
+- Interested in pursuing a PhD to further explore AI and financial applications
