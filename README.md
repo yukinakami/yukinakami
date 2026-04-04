@@ -15,7 +15,7 @@
 - Other competitions: Mathematical Modeling, The Citi Cup Financial Innovation Competition(Block Chain), Three-Creation Competition, Statistical Modeling Competition  
 
 🔬 **Undergraduate Research & Projects**  
-- *"Exploring the impact of ESG news on the stock market based on SVM"*, Completed  
+- *"Exploring the impact of ESG news on the stock market based on SVM"*  
 National Undergraduate Innovation Plan – Jun 2023 to Sep 2024
 - *"Research on the relationship between digital transformation and marketing competitiveness: based on the mediating effect of enterprise innovation"*  
 Provincial Undergraduate Innovation Plan – Jun 2023 to Jun 2024   
