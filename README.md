@@ -28,10 +28,9 @@ Key University-level Projects - Nov 2023 to Nov 2025
 📄 **papers**
 - Two survey works about LLM-powered financial agent are going to submit
 
-🏃‍♂️ **Personal Interests**  
-- Long-distance running enthusiast  
-- 5K personal best: 19:40 ⏱️  
-- Half marathon personal best: 1:37:38 🏅 — still chasing faster times  
+🏃‍♂️ **Personal Interests** ♟️ 
+- Long-distance running enthusiast, 5K personal best: 19:40 ⏱️, Half marathon personal best: 1:37:38 🏅 — still chasing faster times
+- Chess ♛, but very low elo in lichess and Chess.com
 
 🎯 **Future Plans**  
 - Interested in pursuing a PhD to further explore AI and financial applications
